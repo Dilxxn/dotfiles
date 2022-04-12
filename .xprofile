@@ -1,0 +1,20 @@
+
+### STARTUP ###
+
+# Compositor
+picom &
+
+# Wallpaper
+nitrogen --restore
+
+# Wi-Fi Icon
+nm-applet &
+
+# Disk Manager
+udiskie -t &
+
+# Keyboard Layout
+setxkbmap latam
+
+# Notification Server
+dunst -print &
