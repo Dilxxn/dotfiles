@@ -131,6 +131,7 @@ Mueve las carpetas a sus lugares:
 cp -r dotfiles/.config ~/
 cp -r dotfiles/.local ~/
 cp dotfiles/.xprofile ~/
+cp -r Wallpapers/ ~/Imágenes
 ```
 
 Remplaza "(user)" por tu nombre de usuario con la herramienta "Buscar y remplazar" de gedit en su menú:
