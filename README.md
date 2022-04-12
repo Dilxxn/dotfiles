@@ -118,12 +118,18 @@ Clona mi repositorio
 ```bash
 git clone https://github.com/dilxxn/dotfiles.git
 ```
+
+Opcional: Clona mi repositorio de Wallpapers.
+
+```bash
+git clone https://github.com/dilxxn/wallpapers.git
+```
+
 Mueve las carpetas a sus lugares:
 
 ```bash
 cp -r dotfiles/.config ~/
 cp -r dotfiles/.local ~/
-cp -r dotfiles/Wallpapers ~/Imágenes
 cp dotfiles/.xprofile ~/
 ```
 
@@ -134,6 +140,14 @@ gedit ~/.config/qtile/settings/keys.py
 ```
 
 Puedes presionar Super (Tecla Windows) + Control + R para recargar la configuración de Qtile.
+
+Estos wallpapers fueron obtenidos desde el repositorio del YouTube "DistroTube"
+
+Su canal de YouTube:
+https://www.youtube.com/c/DistroTube
+
+Su GitLab:
+https://gitlab.com/dwt1
 
 # Cambia la Shell por defecto
 
