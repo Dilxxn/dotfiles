@@ -1,5 +1,7 @@
 # Qtile
 
+![Arch](https://user-images.githubusercontent.com/103541228/163070298-510f034d-e819-40f5-bfaa-9b7172df37c5.png)
+
 # Índice 
 - [Instalación de Qtile](#instalación-de-qtile)
 - [Genera las carpetas de usuario](#genera-las-carpetas-de-usuario)
@@ -22,7 +24,7 @@
 Instala Qtile, X11, LightDM y un emulador de terminal:
 
 ```bash
-sudo pacman -S xorg xorg-xinit xorg-server lightdm lightdm-gtk-greeter qtile alacritty fish nemo nemo-fileroller rofi nitrogen scrot redshift file-roller gvfs glib2 gvfs-mtp udiskie network-manager-applet pulseaudio pavucontrol pamixer alsa-utils brightnessctl playerctl gedit eog arandr picom geeqie xdg-user-dirs ntfs-3g lxappearance vlc dunst nano light neovim
+sudo pacman -S xorg xorg-xinit xorg-server lightdm lightdm-gtk-greeter qtile alacritty fish nemo cinnamon-translations nemo-fileroller rofi nitrogen scrot redshift file-roller gvfs glib2 gvfs-mtp udiskie network-manager-applet pulseaudio pavucontrol pamixer alsa-utils brightnessctl playerctl gedit eog arandr picom xdg-user-dirs ntfs-3g lxappearance vlc dunst nano light neovim
 ```
 Habilita LightDM:
 
