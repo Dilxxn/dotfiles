@@ -76,7 +76,7 @@ keys = [
     	),
 
     # DistroTube
-    Key([mod, alt], "4",
+    Key([mod, alt], "5",
     	lazy.spawn("nitrogen --set-zoom-fill --random --save"),
     	lazy.spawn("cp /home/(user)/.config/qtile/themes/DistroTube/colors.py /home/(user)/.config/qtile/themes"),
         lazy.spawn("cp /home/(user)/.config/alacritty/themes/DistroTube/alacritty.yml /home/(user)/.config/alacritty"),
