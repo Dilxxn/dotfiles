@@ -1,4 +1,3 @@
-
 ### QTILE COLORS ###
 
 # Material Ocean
