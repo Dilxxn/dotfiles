@@ -1,6 +1,6 @@
 # Qtile
 
-![Arch](https://user-images.githubusercontent.com/103541228/163070298-510f034d-e819-40f5-bfaa-9b7172df37c5.png)
+![2022-04-14-112643_1366x768_scrot](https://user-images.githubusercontent.com/103541228/163441798-dcdafc94-6b3e-40c5-b2f9-12b098e279f4.png)
 
 # Índice 
 - [Instalación de Qtile](#instalación-de-qtile)
