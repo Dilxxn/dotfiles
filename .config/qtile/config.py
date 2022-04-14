@@ -1,4 +1,3 @@
-
 ### QTILE ###
 
 from settings.keys import keys
@@ -15,7 +14,7 @@ follow_mouse_focus = True
 
 bring_front_click = False
 
-cursor_warp = False
+cursor_warp = True
 
 auto_fullscreen = True
 
