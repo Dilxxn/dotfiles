@@ -184,7 +184,7 @@ Utilizando el programa "Nitrogen", podrás cambiar los fondos de pantalla que ut
 
 --- Tema de Qtile ---
 
-Presiona Super + Alt + (Números entre 1 - 2)
+Presiona Super + Alt + (Números entre 1 - 5)
 
 --- Tema de LightDM: ---
 
